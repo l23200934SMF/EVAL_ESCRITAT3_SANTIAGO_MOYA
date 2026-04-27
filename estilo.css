@@ -1,0 +1,16 @@
+body{
+    font-family: Arial;
+}
+
+.fondo{
+    background-color: black;
+}
+
+h2{
+    color: black;
+    margin-bottom: 20px;
+}
+
+.card-title{
+    height: 120px;
+}
